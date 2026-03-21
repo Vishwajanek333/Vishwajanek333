@@ -3,9 +3,7 @@
 
 <img width="412" height="122" alt="download" src="https://github.com/user-attachments/assets/69f2fc37-bde0-4f3d-b51a-83acaf41c2cd" />
 
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
-
 ## 👨‍💻 About Me
 - 💼 Technical Intern (Associate System Engineer) at Rakuten  
 - 🎯 Aspiring Software Engineer focused on Data Structures & Development  
