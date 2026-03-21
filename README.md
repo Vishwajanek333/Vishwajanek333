@@ -1,7 +1,8 @@
 # Hi 👋, I'm Vishwa
-![Rakuten](https://rakuten.today/tech-innovation/new-logo-rakuten-one-identity.html)
+![Rakuten]<img width="833" height="343" alt="Screenshot 2026-03-22 000833" src="https://github.com/user-attachments/assets/e3f9863d-676b-44ef-885e-f52274b19f3a" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
+
 
 ---
 ## 👨‍💻 About Me
