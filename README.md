@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishwa
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
 
 ---
 
@@ -68,16 +68,17 @@
 [LeetCode](your-link) | [HackerRank](your-link) | [Codeforces](your-link)
 
 ---
-
 ## 🌍 Connect with Me
 [LinkedIn](your-link)  
 [Portfolio](your-link)  
 [Twitter / X](your-link)  
 [Email](mailto:yourmail@gmail.com)
-
+---
+---
 ## 🎯 Interests
 🏸 Badminton | 🍳 Cooking | 📚 Reading | 🤝 Networking | ✈️ Traveling | 🌱 Gardening | 💪 Fitness
-
+---
+---
 ## 🌍 Languages
 - English (Professional Working Proficiency)
 - Hindi (Fluent)
@@ -85,7 +86,6 @@
 - Telugu (Intermediate)
 - German (Basic)
 - Japanese (Basic)
-
 ---
 
 ## 👀 Profile Views
