@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi 👋, I'm Vishwa
+
+## 👨‍💻 About Me
 
 ## 🚀 Tech Stack
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
@@ -8,27 +10,20 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-# Hi 👋, I'm Vishwa
-
-## 👨‍💻 About Me
-- 🎯 Aspiring Software Engineer
-- 💻 Learning DSA & Development
-
-## 🚀 Tech Stack
-(Your badges here)
-
-## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-## 🔥 Streak
-(Your streak stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-## 📌 Projects
-- Project 1
-- Project 2
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Competitive+Programmer;Problem+Solver)
 
-## 🌐 Connect
-- LinkedIn
-- Portfolio
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)## 🌍 Connect with me
+[LinkedIn](your-link)
+[Portfolio](your-link)
+[Email](mailto:yourmail@gmail.com)
+
+
+
+
+
