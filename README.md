@@ -1,13 +1,12 @@
-# Hi 👋, I'm Vishwa
+# Hi 👋, I'm Vishwa 
 ##  Technical Intern at 
-<img width="833" height="343" alt="Screenshot 2026-03-22 000833" src="https://github.com/user-attachments/assets/e3f9863d-676b-44ef-885e-f52274b19f3a" />
+
+---<img width="412" height="122" alt="download" src="https://github.com/user-attachments/assets/69f2fc37-bde0-4f3d-b51a-83acaf41c2cd" />
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
 
-
----
 ## 👨‍💻 About Me
-
 - 💼 Technical Intern (Associate System Engineer) at Rakuten  
 - 🎯 Aspiring Software Engineer focused on Data Structures & Development  
 - 🤖 Exploring AI, LLMs, and Automation Tools  
