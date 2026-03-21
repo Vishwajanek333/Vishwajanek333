@@ -75,6 +75,17 @@
 [Twitter / X](your-link)  
 [Email](mailto:yourmail@gmail.com)
 
+## 🎯 Interests
+🏸 Badminton | 🍳 Cooking | 📚 Reading | 🤝 Networking | ✈️ Traveling | 🌱 Gardening | 💪 Fitness
+
+## 🌍 Languages
+- English (Professional Working Proficiency)
+- Hindi (Fluent)
+- Kannada (Native)
+- Telugu (Intermediate)
+- German (Basic)
+- Japanese (Basic)
+
 ---
 
 ## 👀 Profile Views
