@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vishwa
-![Rakuten](https://img.shields.io/badge/Rakuten-Intern-red?style=for-the-badge&logo=rakuten)
+![Rakuten](https://rakuten.today/tech-innovation/new-logo-rakuten-one-identity.html)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
 
