@@ -1,5 +1,6 @@
 # Hi 👋, I'm Vishwa
-![Rakuten]<img width="833" height="343" alt="Screenshot 2026-03-22 000833" src="https://github.com/user-attachments/assets/e3f9863d-676b-44ef-885e-f52274b19f3a" />
+##  Technical Intern at 
+<img width="833" height="343" alt="Screenshot 2026-03-22 000833" src="https://github.com/user-attachments/assets/e3f9863d-676b-44ef-885e-f52274b19f3a" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
 
@@ -12,7 +13,6 @@
 - 🤖 Exploring AI, LLMs, and Automation Tools  
 - ⚡ Building real-world scalable projects and deploying applications  
 - 🧠 Strong interest in problem-solving and system design  
-- 📈 Consistent learner aiming for top tech companies  
 - 🤝 Open to collaboration on AI, backend, and full-stack projects  
 - 🌱 Currently learning: System Design | Backend Engineering | Advanced DSA  
 ---
