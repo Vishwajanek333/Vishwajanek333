@@ -1,15 +1,19 @@
 # Hi 👋, I'm Vishwa
+![Rakuten](https://img.shields.io/badge/Rakuten-Intern-red?style=for-the-badge&logo=rakuten)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=System+Engineer;Competitive+Programmer;AI+Enthusiast;Problem+Solver)
 
 ---
-
 ## 👨‍💻 About Me
-- 🎯 Aspiring Software Engineer focused on **DSA + Development**
-- 🤖 Exploring **AI / LLM / Automation Tools**
-- ⚡ Building real-world projects & solving problems daily
-- 📈 Consistent learner aiming for top tech companies
 
+- 💼 Technical Intern (Associate System Engineer) at Rakuten  
+- 🎯 Aspiring Software Engineer focused on Data Structures & Development  
+- 🤖 Exploring AI, LLMs, and Automation Tools  
+- ⚡ Building real-world scalable projects and deploying applications  
+- 🧠 Strong interest in problem-solving and system design  
+- 📈 Consistent learner aiming for top tech companies  
+- 🤝 Open to collaboration on AI, backend, and full-stack projects  
+- 🌱 Currently learning: System Design | Backend Engineering | Advanced DSA  
 ---
 
 ## 🚀 Tech Stack
