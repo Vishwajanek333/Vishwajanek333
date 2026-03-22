@@ -54,31 +54,40 @@
 
 ---
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+## 🏆 Certifications
+
+- 📜 Agile Methodology  
+  ![Agile](https://img.shields.io/badge/Agile-Certified-blue?style=for-the-badge)  
+  🔗 [View Certificate](https://drive.google.com/file/d/1k2cYvpeTWDLNAkEg9e-oZI6j60Vs7oH6/view)
+
+- 📜 Oracle AI Professional  
+  ![Oracle](https://img.shields.io/badge/Oracle-AI%20Certified-red?style=for-the-badge&logo=oracle)  
+  🔗 [View Certificate](https://drive.google.com/file/d/1wl2ejnnxgOmjtWQYpXTjnMLnrBJCO01L/view)
+
+- 📜 SQL Appreciation  
+  ![SQL](https://img.shields.io/badge/SQL-Certified-blue?style=for-the-badge&logo=mysql)  
+  🔗 [View Certificate](https://drive.google.com/file/d/1wl2ejnnxgOmjtWQYpXTjnMLnrBJCO01L/view)
+
+- 📜 Machine Learning  
+  ![ML](https://img.shields.io/badge/Machine%20Learning-Certified-green?style=for-the-badge)  
+  🔗 [View Certificate](https://drive.google.com/file/d/1EvWR333q247Qu2HDxiX4bH38xWxQ9dCV/view)
 
 ---
-
-## 📌 Featured Projects
-- 🔹 Project 1 – Short description + link  
-- 🔹 Project 2 – Short description + link  
-- 🔹 AI Project – LLM / chatbot / automation  
-
----
-
 ## 📈 Coding Profiles
-[LeetCode](your-link) | [HackerRank](your-link) | [Codeforces](your-link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/v2F8TBeH3q/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/vishwajrevacoll1)
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=for-the-badge)](https://codeforces.com/profile/Vishwa678)
 
 ---
 ## 🌍 Connect with Me
-[LinkedIn](your-link)  
+[LinkedIn](https://www.linkedin.com/feed/)  
 [Portfolio](your-link)  
 [Twitter / X](your-link)  
-[Email](mailto:yourmail@gmail.com)
+[Email](vishwajrevacollegeaiandds@gmail.com)
 ---
 ---
 ## 🎯 Interests
-🏸 Badminton | 🍳 Cooking | 📚 Reading | 🤝 Networking | ✈️ Traveling | 🌱 Gardening | 💪 Fitness
+🏸 Badminton | 🍳 Cooking | 📚 Reading | 🤝 Networking | ✈️ Traveling | 🌱 Gardening | 💪 Fitness | ♟️ chees 
 ---
 ---
 ## 🌍 Languages
