@@ -82,7 +82,7 @@
 ## 🌍 Connect with Me
 [LinkedIn](https://www.linkedin.com/feed/)  
 [Portfolio](your-link)  
-[Twitter / X](your-link)  
+[Twitter / X](https://x.com/VishwaJ47077)  
 [Email](vishwajrevacollegeaiandds@gmail.com)
 ---
 ---
